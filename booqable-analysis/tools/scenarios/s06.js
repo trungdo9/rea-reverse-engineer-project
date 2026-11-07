@@ -1,0 +1,13 @@
+const C = { pid: 'c5e95d23-1b8a-4a79-a0e9-b8a72534078c' };
+const K1 = '8722eb07-5af9-4ddc-9647-18a5bfca5253', K2 = 'fc1d45bd-5210-4518-bfbe-ef3b91d985d3';
+const raw = (await api('GET', `plannings?filter[order_id]=${K1}`)).body.data[0];
+log('planning attribute keys', Object.keys(raw.attributes).join(','));
+const plan = async o => (await api('GET', `plannings?filter[order_id]=${o}`)).body.data.map(x => ({ id: x.id, pid: x.attributes.product_id || x.attributes.item_id, q: x.attributes.quantity, from: x.attributes.reserved_from, till: x.attributes.reserved_till }));
+const startAll = async o => { const ps = await plan(o); return fulfil(o, ps.map(p => ({ action: 'start_product', product_id: p.pid, planning_id: p.id, quantity: p.q }))); };
+log('--- S2.5 NHẬN SỚM (retry)');
+await step('K1 (15-16/11) early pickup today', startAll(K1));
+log('K1 planning after early pickup', await plan(K1), await getOrder(K1));
+await step('K2 (09-10/11) pickup while K1 machine is out', startAll(K2));
+const K3 = await newOrder('2026-11-12T09:00', '2026-11-13T09:00');
+await book(K3, C.pid); await step('K3 reserve 12-13/11 (máy đang ở chỗ K1 từ hôm nay)', trans(K3, 'new', 'reserved'));
+log('IDS', { K3 });

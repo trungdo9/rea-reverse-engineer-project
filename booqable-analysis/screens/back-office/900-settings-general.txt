@@ -1,0 +1,141 @@
+https://ghiencafe.booqable.com/settings/general
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Back office
+General
+Back office
+General
+Company info
+Address
+Regional settings
+Address autocomplete
+Personalize your labels
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Pickup and delivery
+Checkout
+SEO
+Company info
+This information is used across your account, including documents, emails, and customer communication.
+
+Learn more
+Company name
+Email
+Shown to customers on documents and used as the reply-to address for emails.
+Phone
+Used internally to contact your business. Not shown to customers.
+Website
+Your business website. This does not affect your online store or booking page.
+Logo
+Click to upload
+or drag and drop
+
+Your logo will appear on your store, in your emails, and documents.
+
+Recommended: PNG image, at least 1200×1200 pixels.
+
+Learn more
+Save
+Address
+This address is shown on your documents and shared with customers. It can also be used in your email templates.
+
+You can set a different billing address (used for your Booqable subscription) in your account settings.
+Country
+Vietnam
+Address line 1
+Address line 2
+City
+Postcode
+Save
+
+Add extra details to display on your documents or emails, such as bank or tax information.
+
+Additional details (line 1)
+Additional details (line 2)
+Save
+Regional settings
+Set your regional preferences, such as units of measurement and date and time formatting. These settings affect how information is displayed and used across your account.
+Time zone
+(GMT+07:00) Ho Chi Minh
+First day of the week
+Sunday
+Date format
+dd-mm-yyyy
+Use AM/PM
+Standards and formats
+Used to calculate delivery distances and fees
+Metric
+Kilometers, kilograms, liters, etc.
+Imperial
+Miles, pounds, gallons, etc.
+Default weight unit
+Follow unit system (g)
+The unit new product weights start in. You can still pick a different unit per product.
+Save
+Address autocomplete
+Suggest addresses from Google as you and your customers type in address fields.
+Suggest addresses while typing
+Applies to address fields in your online store, checkout, and back office. When disabled, addresses are always entered manually.
+Save
+Personalize your labels
+Rename these terms to match your way of working. Learn more
+Customer
+What do you call your customers?
+Customer (default)
+Order
+What do you call an order?
+Order (default)
+Quote
+What do you call a quote?
+Quote (default)
+Contract
+What do you call a contract?
+Contract (default)
+Packing slip
+What do you call a packing slip?
+Packing slip (default)
+Pickup
+What do you call the action to start an order?
+Pick up (default)
+Return
+What do you call the action to stop an order?
+Return (default)
+Save

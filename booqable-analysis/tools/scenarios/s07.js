@@ -1,0 +1,11 @@
+const items = { 'Loa A (1)': '25141510-0c61-46e0-b430-43c121ff0163', 'Loa B buffer (1)': 'cd2fd17c-59b9-49b8-9b4e-9a642c89bf3c', 'Loa C (1)': 'acbc8e09-e6f9-4192-b3f7-0abe2a024e85', 'Loa D (3)': '3454c17c-50f1-4382-8868-35e0df51b029' };
+const av = async (name, f, t, why) => { const r = await api('POST', 'availabilities', { filter: { item_id: [items[name]], from: T(f), till: T(t), location_id: LOC } }); const a = r.body?.data?.[0]?.attributes; log(`${name} ${f}→${t}`.padEnd(46), a ? `available=${a.available} plannable=${a.plannable}` : JSON.stringify(short(r)), '//', why); };
+log('origin', location.origin);
+await av('Loa A (1)', '2026-11-20T09:00', '2026-11-22T15:00', 'O1 reserved');
+await av('Loa A (1)', '2026-11-22T15:00', '2026-11-22T16:00', 'đúng ranh giới O1→O2 (O2 reserved)');
+await av('Loa A (1)', '2026-12-20T09:00', '2026-12-21T09:00', 'lịch trống');
+await av('Loa B buffer (1)', '2026-12-02T09:30', '2026-12-02T10:30', 'trong lag 2h của P1 (đã chụp)');
+await av('Loa C (1)', '2026-11-12T09:00', '2026-11-13T09:00', 'máy đang ở chỗ K1 (nhận sớm), lịch trống');
+await av('Loa C (1)', '2026-11-07T09:00', '2026-11-08T09:00', 'L2 reserved');
+await av('Loa D (3)', '2026-12-11T09:00', '2026-12-12T09:00', 'đã overbook 4/3 với shortage limit 1');
+await av('Loa D (3)', '2026-12-12T10:00', '2026-12-13T09:00', 'còn Q3+Q4 (2/3)');

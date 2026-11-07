@@ -1,0 +1,6 @@
+const car = { pgId: 'c917bb4f-c8e9-4e64-ae95-0180fd343050', pid: '8c9c3b78-f588-4f3c-82bb-eee43c85187d' }, cam = { pgId: '3444efbe-6f14-4843-a657-c24b1a893b35', pid: 'f2da4f8d-ae61-4780-8f91-2eb7d3640dfa' };
+log('set structure price car', JSON.stringify(short(await api('PATCH', `product_groups/${car.pgId}`, { data: { type: 'product_groups', id: car.pgId, attributes: { structure_price_in_cents: 100000000 } } }))));
+log('set structure price cam', JSON.stringify(short(await api('PATCH', `product_groups/${cam.pgId}`, { data: { type: 'product_groups', id: cam.pgId, attributes: { structure_price_in_cents: 10000000 } } }))));
+const price = async (pid, from, till, label) => { const o = await newOrder(from, till); await book(o, pid); const l = (await api('GET', `lines?filter[order_id]=${o}`)).body.data[0].attributes; log(label.padEnd(36), l.charge_label, l.price_in_cents / 100); await trans(o, 'new', 'draft'); };
+for (const d of [1, 3, 4, 5, 7]) await price(car.pid, '2027-04-01T09:00', new Date(Date.parse('2027-04-01T09:00:00Z') + d * 864e5).toISOString().slice(0, 16), `Xe 1tr/ngày -50% từ ngày 4: ${d} ngày`);
+for (const h of [1, 3, 5, 26]) await price(cam.pid, '2027-04-10T09:00', new Date(Date.parse('2027-04-10T09:00:00Z') + h * 36e5).toISOString().slice(0, 16), `Máy quay 100k/giờ min 3h: ${h} giờ`);

@@ -1,0 +1,327 @@
+https://ghiencafe.booqable.com/customers/1c0e12de-aaa7-4beb-870f-110469a4c938/edit
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Customers
+TES[TEST] Khách hàng A
+Tags
+Add tags
+Barcode
+KHA
+Edit barcode
+Notes
+Activity logs
+View activity logs
+Information
+Orders
+Payment methods
+Accounts
+General information
+The information you enter here will be used on documents like invoices and to identify the customer.
+Information
+Email
+Subscribed to marketing emails
+Customer type
+Individual
+Settings
+Discount percentage
+Tax profile
+No tax profile
+No customer taxes found. Click here to create one.
+Custom fields
+Manage custom fields
+Phone
+International
+Afghanistan
+Åland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, Democratic Republic of the
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Federated States of Micronesia
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+North Macedonia
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French Part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tristan da Cunha
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+[TEST] Số GPLX
+Addresses
+The addresses will be shown on the order itself and on its documents.
+
+Usually, the address has to be on documents for legal reasons but it can also be used for shipping or delivery.
+Main address
+Country
+Vietnam
+First name
+Last name
+Address line 1
+Address line 2
+City
+Postcode
+Add address
+Security deposit
+Allows you to set a special security deposit for this customer.
+Default setting (Products: 100%)
+Charge the default security deposit configured in your pricing settings
+No deposit
+No security deposit is charged by default.
+Percentage of order total
+Charge a percentage of the total order value. For manual payments, you can also choose to authorize the deposit instead of charging it immediately.
+Use product-specific security deposits
+Calculate the deposit based on the security deposit set for each product. Product security deposits are set per product in Inventory.
+Fixed amount
+Charge a fixed security deposit for every order. For manual payments, you can also choose to authorize the deposit instead of charging it immediately.
+Delete customer
+CancelSave

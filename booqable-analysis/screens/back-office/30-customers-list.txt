@@ -1,0 +1,70 @@
+https://ghiencafe.booqable.com/customers?page=1&sort=-number
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Customers
+Add customer
+Customer type
+Individual
+(3)
+Company
+(0)
+Marketing emails
+Subscribed
+(0)
+Not subscribed
+(3)
+Customer created
+All time
+Latest order
+All time
+Customers
+Watch video
+Import
+Export
+Actions0 customers selectedSelect all 3 customers
+Showing 1 - 3 of 3
+#
+Name
+Email
+Created at
+Latest order
+Balance due
+Tags
+New
+#3
+TES[TEST] Khách online B
+test-khach-b@example.com
+06-11-2026
+06-11-2026
+₫600.000
+#2
+TES[TEST] Khách hàng A
+test-khach-a@example.com
+06-11-2026
+06-11-2026
+₫9.610.000
+#1
+TDTrung Do
+minhtrung.4791@gmail.com
+06-11-2026
+Showing 1 - 3 of 3

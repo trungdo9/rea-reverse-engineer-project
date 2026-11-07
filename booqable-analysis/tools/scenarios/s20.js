@@ -1,0 +1,15 @@
+const structs = (await api('GET', 'price_structures')).body.data.map(s => ({ id: s.id, name: s.attributes.name, keys: Object.keys(s.attributes).join(',') }));
+log('structures', structs.map(s => s.name));
+log('structure attr keys', structs[0]?.keys);
+const tiles = await api('GET', `price_tiles?filter[price_structure_id]=${structs[1].id}`);
+log('tiles of "' + structs[1].name + '"', JSON.stringify((tiles.body?.data || []).map(t => t.attributes)).slice(0, 700));
+const mk = await mkProduct('[TEST] Xe tự lái (giá bậc thang ngày)', 1000000, 1);
+const r1 = await api('PATCH', `product_groups/${mk.pgId}`, { data: { type: 'product_groups', id: mk.pgId, attributes: { price_type: 'structure', price_structure_id: structs[1].id } } });
+log('assign daily structure', JSON.stringify(short(r1)));
+const mkH = await mkProduct('[TEST] Máy quay (giá theo giờ, tối thiểu 3h)', 100000, 1);
+const r2 = await api('PATCH', `product_groups/${mkH.pgId}`, { data: { type: 'product_groups', id: mkH.pgId, attributes: { price_type: 'structure', price_structure_id: structs[0].id } } });
+log('assign hourly structure', JSON.stringify(short(r2)));
+const price = async (pid, from, till, label) => { const o = await newOrder(from, till); await book(o, pid); const l = (await api('GET', `lines?filter[order_id]=${o}`)).body.data[0].attributes; log(label.padEnd(36), l.charge_label, l.price_in_cents / 100); await trans(o, 'new', 'draft'); };
+for (const [d, lab] of [[1, '1 ngày'], [3, '3 ngày'], [4, '4 ngày'], [5, '5 ngày'], [7, '7 ngày']]) await price(mk.pid, '2027-04-01T09:00', new Date(Date.parse('2027-04-01T09:00:00Z') + d * 864e5).toISOString().slice(0, 16), 'Xe (1tr/ngày, -50% từ ngày 4): ' + lab);
+for (const [h, lab] of [[1, '1 giờ'], [3, '3 giờ'], [5, '5 giờ'], [26, '26 giờ']]) await price(mkH.pid, '2027-04-10T09:00', new Date(Date.parse('2027-04-10T09:00:00Z') + h * 36e5).toISOString().slice(0, 16), 'Máy quay (100k/giờ, min 3h): ' + lab);
+log('IDS', { car: mk, cam: mkH });

@@ -1,0 +1,372 @@
+https://ghiencafe.booqable.com/orders/new
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Email
+Send email
+View email history (0)
+Documents
+New contract
+New quote
+Packing slip
+Invoices
+1
+Pro forma
+₫2.000.000
+Payments
+Payment due
+Paid
+₫0
+Due
+₫7.000.000
+New payment
+Tags
+Add tags
+Notes
+Activity logs
+View activity logs
+Orders
+New order
+1 new
+Save as draftReservePickup
+Customer
+TES
+[TEST] Khách hàng A
+test-khach-a@example.com
+Information
+Add field
+[TEST] Số km lúc giao
+Pickup
+
+Pickup from
+
+Main location
+
+Add billing address
+Format: dd-mm-yyyy
+Clear
+From
+Until
+New
+How's the new period picker working for you?
+Available
+Quantity
+Charge
+Edit for all items
+[TEST] Xe tự lái (giá bậc thang ngày)
+1 draft
+0 left
+2 days
+₫2.000.000
+₫2.000.000
+Add custom line
+Subtotal
+₫2.000.000
+Add a discount
+Add a coupon
+Total discount
+₫0
+Total incl. taxes
+₫2.000.000
+Security deposit
+100% of product security deposit value
+₫5.000.000
+1 product | 1 item
+April 2027
+SUN
+MON
+TUE
+WED
+THU
+FRI
+SAT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+May 2027
+SUN
+MON
+TUE
+WED
+THU
+FRI
+SAT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+June 2027
+SUN
+MON
+TUE
+WED
+THU
+FRI
+SAT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+July 2027
+SUN
+MON
+TUE
+WED
+THU
+FRI
+SAT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Today
+Time
+00
+00:00
+00:15
+00:30
+00:45
+01
+01:00
+01:15
+01:30
+01:45
+02
+02:00
+02:15
+02:30
+02:45
+03
+03:00
+03:15
+03:30
+03:45
+04
+04:00
+04:15
+04:30
+04:45
+05
+05:00
+05:15
+05:30
+05:45
+06
+06:00
+06:15
+06:30
+06:45
+07
+07:00
+07:15
+07:30
+07:45
+08
+08:00
+08:15
+08:30
+08:45
+09
+09:00
+09:15
+09:30
+09:45
+10
+10:00
+10:15
+10:30
+10:45
+11
+11:00
+11:15
+11:30
+11:45
+12
+12:00
+12:15
+12:30
+12:45
+13
+13:00
+13:15
+13:30
+13:45
+14
+14:00
+14:15
+14:30
+14:45
+15
+15:00
+15:15
+15:30
+15:45
+16
+16:00
+16:15
+16:30
+16:45
+17
+17:00
+17:15
+17:30
+17:45
+18
+18:00
+18:15
+18:30
+18:45
+19
+19:00
+19:15
+19:30
+19:45
+20
+20:00
+20:15
+20:30
+20:45
+21
+21:00
+21:15
+21:30
+21:45
+22
+22:00
+22:15
+22:30
+22:45
+23
+23:00
+23:15
+23:30
+23:45
+Available
+Available part of the day
+Unavailable

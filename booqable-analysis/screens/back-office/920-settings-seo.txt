@@ -1,0 +1,64 @@
+https://ghiencafe.booqable.com/settings/seo
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Online bookings
+SEO
+Back office
+General
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Pickup and delivery
+Checkout
+SEO
+SEO
+Improving SEO
+Watch video
+The Page title defines the document's title that is shown in a browser's title bar or a page's tab.
+
+The Meta description provides a short description of the page. Some search providers (like Google), can use this description in the snippet shown in search results.
+Page title
+Characters 0/60. It's recommended that you keep your page title under 60 characters.
+Meta description
+Characters 0/160. It's recommended that you keep your meta description under 160 characters.
+Example in search engine
+https://ghiencafe.booqableshop.com
+ghiencafe
+Save

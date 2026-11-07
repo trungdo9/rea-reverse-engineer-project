@@ -1,0 +1,53 @@
+https://ghiencafe.booqable.com/orders/8907f10b-b60e-4f00-b2f2-bfc11842df14/packing_slip
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Order #1
+Packing slip
+PrintDownload
+Tags
+Add tags
+Notes
+[TEST] Khách hàng A
+test-khach-a@example.com
+ghiencafe
+Vietnam
+
+minhtrung.4791@gmail.com
+
+
+
+Order
+#1
+Pickup
+Main location
+10-11-2026 09:00
+Return
+Main location
+12-11-2026 15:00
+Packing slip
+Qty	Name
+1	
+[TEST] Máy pha cà phê
+
+1	
+[TEST] Máy pha cà phê

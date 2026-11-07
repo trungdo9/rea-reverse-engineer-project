@@ -1,0 +1,114 @@
+https://ghiencafe.booqable.com/product_groups/c917bb4f-c8e9-4e64-ae95-0180fd343050/pricing
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Inventory
+[TEST] Xe tự lái (giá bậc thang ngày)
+Duplicate product
+Tags
+Add tags
+Barcode
+Add barcode
+Collections
+Add to collections
+This product is not added to any collections yet.
+Notes
+Activity logs
+View activity logs
+Inventory
+Variations
+Pricing
+Settings
+Online store
+History
+Downtime
+Cross-sell
+Price
+Pricing with Booqable
+Watch video
+Choose a pricing method for this product
+
+Learn more
+Charge for this product
+Disable this option if you don't charge money for this item.
+
+
+Pricing method
+Preview pricing
+Flat fee
+Flat rate per period (for example: $50 per day)
+Fixed price
+Fixed price per order (for example: $50 each)
+Pricing structure
+Tiered pricing (for example: $50 for one day and $80 for two days)
+One-off pricing structure
+Create a unique pricing structure only for this product.
+Pricing structure template
+Use an existing pricing structure template.
+
+Select a pricing structure template to apply to this product. You can create new and change existing templates in pricing settings.
+
+Base price
+₫
+Template
+Example: Charge per day (with 50% off for every extra day after 3 days)
+
+Manage pricing structure templates
+
+Advanced pricing rules
+Create a pricing rule
+Watch video
+Change this product's price on certain days and dates.
+
+Learn more
+Ruleset
+Manage pricing rulesets
+No ruleset
+Rulesets are applied on top of your regular pricing.
+Taxes and discounts
+Automating taxes
+Watch video
+Choose whether any taxes and discounts apply to this product
+Taxable
+Product and customer tax profiles apply to this product.
+Product tax profile
+Manage tax profiles
+No product tax profile
+Note: Customer tax profiles may still be charged on this product.
+Eligible for discounts
+Customer and coupon discounts can be applied to this product on both online and manual orders.
+Security deposits
+Security deposits
+Watch video
+Security deposits help cover the costs of the repairs or replacement of products
+Security deposit value
+Set the amount used to calculate the security deposit for orders. You can adjust how deposits are charged in Pricing settings.
+₫
+Default purchase cost
+
+Set a default purchase cost of this product to calculate ROI. This value will be used as a default and fallback for all past, current, and future stock for this product. You can still manually override the cost for specific stock items later.
+
+Learn more
+Default cost per item
+Enter the price paid per item.
+₫
+Save

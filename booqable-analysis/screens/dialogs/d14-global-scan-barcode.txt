@@ -1,0 +1,57 @@
+https://ghiencafe.booqable.com/dashboard
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Dashboard
+Latest notes
+Going out
+Run reportToday
+09:00
+TES
+[TEST] Khách hàng A
+
+test-khach-a@example.com
+
+1 reserved
+#13
+ML
+View late (1)
+View all
+Coming back
+Today
+17:00
+TES
+[TEST] Khách hàng A
+
+test-khach-a@example.com
+
+1 picked up
+#57
+ML
+View late
+View all
+Scan a barcode
+Ready to scan...
+Scan any product, customer, or order barcode using your connected scanner. The match will open automatically.
+Unable to scan? Type barcode manually
+No scanner? Scan with Booqable mobile app.
+Learn more

@@ -1,0 +1,83 @@
+https://ghiencafe.booqable.com/employees/new
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Back office
+Invite team member
+Back office
+General
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Subscription
+API usage
+Team
+Billing information
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+Pickup and delivery
+Checkout
+SEO
+Account information
+Invite a team member to share the workload and boost productivity.
+First name
+Last name
+Email
+Permissions
+Choose a set of permissions that fits this team member's role
+Manage products and stock
+Add, remove and edit products and their stock items.
+Manage settings
+Access the settings of this Booqable account.
+Manage security settings
+Access the security settings of this Booqable account.
+Manage account and billing
+View and update billing information, team members, and account status.
+View performance reports
+See the performance of products, availability, revenue and more for this Booqable account.
+Generate exports
+Generate exports that contain summarized data for customers, orders or inventory.
+View activity logs
+View activity logs that show changes made to records in this Booqable account.
+Ask Bo
+Access the AI assistant in the Back Office.
+Override selectable rental period restrictions
+Create a custom rental period for manual orders.
+Revert orders status
+Cancel orders
+Delete invoices
+Make invoice revisions
+CancelSend invitation

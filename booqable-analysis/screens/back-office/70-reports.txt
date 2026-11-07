@@ -1,0 +1,92 @@
+https://ghiencafe.booqable.com/reports
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Reports
+Business reports
+
+Get a high-level overview of your company's performance, including revenue, orders, and key business metrics.
+
+ Company performance
+
+See a summary of your business performance including revenue, orders, and key metrics.
+
+Run report
+Inventory reports
+Generating business reports
+Watch video
+
+View performance and availability of your inventory.
+
+Learn more
+ Product performance
+
+See how often products are rented out and how much they made.
+
+Run report
+ Availability
+
+See product availability and shortages in a given period.
+
+Run report
+ Product fulfillment
+
+See which products are going out for any given date range.
+
+Run report
+Customer reports
+
+Get insights into how your customers contribute to your business, including revenue, orders, and outstanding balances.
+
+Learn more
+ Customer report
+
+See how your customers perform in a selected period, including revenue, order volume, and balance due.
+
+Run report
+Coupon reports
+
+View the usage and amount of discount applied by your coupons.
+
+ Coupons
+
+View the performance of your coupons based on usage and discounts.
+
+Run report
+Activity
+
+Track changes and activities across your account.
+
+ Activity logs
+
+View all activities and changes made across your entire account.
+
+View activity logs
+Background tasks
+View finished bulk operations or monitor operations in real-time, download generated files, and view additional information like errors or skipped items.
+
+Learn more
+ Background tasks
+
+View the results and output of finished background tasks.
+
+View background tasks

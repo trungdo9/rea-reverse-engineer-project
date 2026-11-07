@@ -1,0 +1,97 @@
+https://ghiencafe.booqable.com/reports/stock?page=1&sort=-rent_duration_in_seconds&filters%5Brange%5D%5Bvalue%5D=last_month&filters%5Brange%5D%5Bfrom%5D=2026-10-01T00%3A00%3A00.000Z&filters%5Brange%5D%5Btill%5D=2026-10-31T23%3A59%3A59.999Z&filters%5Brevenue_type%5D=orders
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Reports
+Product performance
+Show revenue by
+Orders
+Reporting period
+Last month
+01-10-2026
+31-10-2026
+Export
+Rental products
+Stock items
+Sales items
+Services
+All locations
+Identifier
+Product
+Added
+Rented 
+Rent duration 
+Charge duration 
+Downtime 
+Downtime duration 
+Purchase cost 
+Purchase date 
+Revenue 
+Profit 
+ROI 
+New
+TEST_VAY_C_I_DUOI_CA-3
+[TEST] Váy cưới đuôi cá - M, Kem
+06-11-2026 15:55
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+MC-001
+[TEST] Máy chiếu (2 serial)
+06-11-2026 15:08
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+TEST_VAY_C_I_DUOI_CA-1
+[TEST] Váy cưới đuôi cá - S, Trắng
+06-11-2026 15:55
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+TEST_VAY_C_I_DUOI_CA-2
+[TEST] Váy cưới đuôi cá - M, Trắng
+06-11-2026 15:55
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+MC-002
+[TEST] Máy chiếu (2 serial)
+06-11-2026 15:08
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+Showing 1 - 5 of 5

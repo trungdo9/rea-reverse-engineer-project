@@ -1,0 +1,95 @@
+https://ghiencafe.booqable.com/product_groups/d99f656f-2513-4ba9-9748-4fbb2b0f8667/online_store
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Inventory
+[TEST] Máy chiếu (2 serial)
+Duplicate product
+Tags
+Add tags
+Barcode
+Add barcode
+Collections
+Add to collections
+This product is not added to any collections yet.
+Notes
+Activity logs
+View activity logs
+Inventory
+Variations
+Pricing
+Settings
+Online store
+History
+Downtime
+Cross-sell
+Online store appearance
+Allow customers to view and rent this product in your online store. When off, it can still appear as a cross-sell recommendation on other products' pages.
+Show in online store
+Allow customers to view and rent this product in your online store.
+Description
+
+English
+Write AI product description
+BETA
+Excerpt
+A shorter version of the description, shown in places where space is limited.
+SEO
+Improving SEO
+Watch video
+The Page title defines the document's title that is shown in a browser's title bar or a page's tab.
+
+The Meta description provides a short description of the page. Some search providers (like Google), can use this description in the snippet shown in search results.
+Page title
+Characters 0/60. It's recommended that you keep your page title under 60 characters.
+Meta description
+Characters 0/160. It's recommended that you keep your meta description under 160 characters.
+English
+Write AI product meta description
+BETA
+Slug
+The last part of the URL address that serves as a unique identifier of the page
+Example in search engine
+https://ghiencafe.booqableshop.com/products/test-may-chi-u-2-serial
+[TEST] Máy chiếu (2 serial)
+Embed options
+Website integrations
+Watch video
+Embed this product on any website.
+
+Learn more
+Embed your products on any website
+Get started
+
+To embed products on your website, you first need to install Booqable’s plugin. Then, you can show your products and more on your website by pasting a simple embed code onto a page.
+
+Embeddable components
+Product card
+Add to cart button
+Detail view
+Product card
+
+Show a product card element on your website. When clicked, the card will open a pop up with the product details.
+
+HTML
+WordPress
+Save

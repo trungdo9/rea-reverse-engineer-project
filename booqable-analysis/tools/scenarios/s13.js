@@ -1,0 +1,32 @@
+log('--- S6b hàng bán (consumable, giá cố định)');
+for (const pt of ['fixed', 'none']) {
+  const sale = await api('POST', 'product_groups', { data: { type: 'product_groups', attributes: { name: `[TEST] Cà phê hạt 1kg (bán, ${pt})`, product_type: 'consumable', tracking_type: 'bulk', price_type: pt, flat_fee_price_in_cents: 25000000, taxable: true } } });
+  log(`create consumable price_type=${pt}`, JSON.stringify(short(sale)));
+  if (sale.status >= 300) continue;
+  const salePid = (await api('GET', `products?filter[product_group_id]=${sale.body.data.id}`)).body.data[0].id;
+  await step('stock +5', api('POST', 'stock_adjustments', { data: { type: 'stock_adjustments', attributes: { product_id: salePid, location_id: LOC, quantity: 5 } } }));
+  const N2 = await newOrder('2027-02-01T09:00', '2027-02-03T09:00');
+  await step('N2 book cà phê x2', book(N2, salePid, 2));
+  log('N2 lines', (await api('GET', `lines?filter[order_id]=${N2}`)).body.data.map(l => `${l.attributes.title} q=${l.attributes.quantity} '${l.attributes.charge_label}' ${l.attributes.price_in_cents / 100}`));
+  await step('N2 reserve', trans(N2, 'new', 'reserved'));
+  const N3 = await newOrder('2027-02-10T09:00', '2027-02-11T09:00');
+  await book(N3, salePid, 4); await step('N3 reserve x4 (5 - 2 đã giữ ở N2, ngày khác)', trans(N3, 'new', 'reserved'));
+  const q = await pls(N2);
+  await step('N2 pickup (giao hàng bán)', fulfil(N2, q.map(x => ({ action: 'start_product', product_id: x.pid, planning_id: x.id, quantity: x.q }))));
+  log('N2', await getOrder(N2), await pls(N2));
+  log('IDS', { salePid, N2, N3 });
+  break;
+}
+log('--- S7b kích hoạt coupon rồi áp lại');
+const CP = '38dabd22-c7d7-44a7-b8dd-b4700cd6de6c', N1x = '270674c4-e7eb-483f-abc0-8cef4e2f9be8';
+const ca = (await api('GET', `coupons/${CP}`)).body.data.attributes; log('coupon attrs', ca);
+await step('activate coupon', api('PATCH', `coupons/${CP}`, { data: { type: 'coupons', id: CP, attributes: { active: true } } }));
+await step('apply coupon to N1 again', api('PATCH', `orders/${N1x}`, { data: { type: 'orders', id: N1x, attributes: { coupon_id: CP } } }));
+const oa = (await api('GET', `orders/${N1x}`)).body.data.attributes; log('N1 after coupon', { coupon_id: oa.coupon_id, coupon_discount: oa.coupon_discount_in_cents / 100, total: oa.grand_total_in_cents / 100, errors: oa.coupon_errors });
+log('--- S2.3c tính lại giá cho đơn đã gia hạn (E2: 21-22/11 -> 21-23/11)');
+const E2 = '67cedd10-6495-4c24-a5ad-e45dc8b16b37';
+await step('E2 extend to 23/11 09:00', setPeriod(E2, null, '2026-11-23T09:00'));
+const lines = async o => (await api('GET', `lines?filter[order_id]=${o}`)).body.data.map(l => `${l.attributes.charge_label} ${l.attributes.price_in_cents / 100}`);
+log('E2 lines before recalc', await lines(E2), (await getOrder(E2)).total);
+await step('order_price_recalculations E2', api('POST', 'order_price_recalculations', { data: { type: 'order_price_recalculations', attributes: { order_id: E2 } } }));
+log('E2 lines after recalc', await lines(E2), (await getOrder(E2)).total);

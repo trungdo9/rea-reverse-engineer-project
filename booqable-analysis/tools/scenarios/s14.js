@@ -1,0 +1,13 @@
+log('--- S7b kích hoạt coupon rồi áp lại');
+const CP = '38dabd22-c7d7-44a7-b8dd-b4700cd6de6c', N1x = '270674c4-e7eb-483f-abc0-8cef4e2f9be8';
+const ca = (await api('GET', `coupons/${CP}`)).body.data.attributes; log('coupon attrs', ca);
+await step('activate coupon', api('PATCH', `coupons/${CP}`, { data: { type: 'coupons', id: CP, attributes: { active: true } } }));
+await step('apply coupon to N1 again', api('PATCH', `orders/${N1x}`, { data: { type: 'orders', id: N1x, attributes: { coupon_id: CP } } }));
+const oa = (await api('GET', `orders/${N1x}`)).body.data.attributes; log('N1 after coupon', { coupon_id: oa.coupon_id, coupon_discount: oa.coupon_discount_in_cents / 100, total: oa.grand_total_in_cents / 100, errors: oa.coupon_errors });
+log('--- S2.3c tính lại giá cho đơn đã gia hạn (E2: 21-22/11 -> 21-23/11)');
+const E2 = '67cedd10-6495-4c24-a5ad-e45dc8b16b37';
+await step('E2 extend to 23/11 09:00', setPeriod(E2, null, '2026-11-23T09:00'));
+const lines = async o => (await api('GET', `lines?filter[order_id]=${o}`)).body.data.map(l => `${l.attributes.charge_label} ${l.attributes.price_in_cents / 100}`);
+log('E2 lines before recalc', await lines(E2), (await getOrder(E2)).total);
+await step('order_price_recalculations E2', api('POST', 'order_price_recalculations', { data: { type: 'order_price_recalculations', attributes: { order_id: E2 } } }));
+log('E2 lines after recalc', await lines(E2), (await getOrder(E2)).total);

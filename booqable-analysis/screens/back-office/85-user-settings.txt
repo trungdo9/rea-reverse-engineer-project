@@ -1,0 +1,85 @@
+https://ghiencafe.booqable.com/employees/current
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+User settings
+User account
+First name
+Last name
+Login email
+Locale
+English
+Password
+Confirm password
+Avatar
+Click to upload
+or drag and drop
+Save
+Two-Factor Authentication (2FA)
+2FA adds an extra layer of security to your user account by requiring a code from the Google Authenticator app on your phone when you log in. Learn more
+Two Factor Authentication (2FA)
+You haven’t set up 2FA for your user account.
+Set up 2FA
+Authentication methods
+The API allows you to connect Booqable to other applications. Keep your tokens/keys secret and only share them with applications you trust; they grant full access to your Booqable account!
+Add your first authentication method
+Learn more
+New authentication method
+Login activity
+Here's a list of all login attempts
+Success
+Chrome
+Go Vap, Ho Chi Minh, Vietnam
+14 minutes ago
+Success
+Chrome
+Go Vap, Ho Chi Minh, Vietnam
+25 minutes ago
+Success
+Chrome
+Go Vap, Ho Chi Minh, Vietnam
+11 hours ago
+Success
+Chrome
+Go Vap, Ho Chi Minh, Vietnam
+12 hours ago
+Success
+Chrome
+Go Vap, Ho Chi Minh, Vietnam
+13 hours ago
+Success
+Chrome
+Go Vap, Ho Chi Minh, Vietnam
+14 hours ago
+Success
+Chrome
+Go Vap, Ho Chi Minh, Vietnam
+14 hours ago
+Success
+Chrome
+Go Vap, Ho Chi Minh, Vietnam
+14 hours ago
+Success
+Chrome
+Go Vap, Ho Chi Minh, Vietnam
+14 hours ago
+Showing 1 - 9 of 9

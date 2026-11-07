@@ -1,0 +1,13 @@
+const car = { pgId: 'c917bb4f-c8e9-4e64-ae95-0180fd343050', pid: '8c9c3b78-f588-4f3c-82bb-eee43c85187d' };
+log('set car deposit 5tr', JSON.stringify(short(await api('PATCH', `product_groups/${car.pgId}`, { data: { type: 'product_groups', id: car.pgId, attributes: { deposit_in_cents: 500000000 } } }))));
+const o = await newOrder('2027-05-01T09:00', '2027-05-03T09:00'); await book(o, car.pid);
+let a = (await api('GET', `orders/${o}`)).body.data.attributes;
+log('order deposit (company default = % of order, 100%)', { deposit_type: a.deposit_type, deposit_value: a.deposit_value, deposit: a.deposit_in_cents / 100, total: a.grand_total_in_cents / 100 });
+log('set order deposit_type=product', JSON.stringify(short(await api('PATCH', `orders/${o}`, { data: { type: 'orders', id: o, attributes: { deposit_type: 'product' } } }))));
+a = (await api('GET', `orders/${o}`)).body.data.attributes;
+log('order deposit after', { deposit_type: a.deposit_type, deposit: a.deposit_in_cents / 100, total: a.grand_total_in_cents / 100, to_be_paid: a.to_be_paid_in_cents / 100 });
+let dp = await api('POST', 'default_properties', { data: { type: 'default_properties', attributes: { name: '[TEST] Số GPLX', property_type: 'text_field', owner_type: 'customers', show_on: ['contract'], validation_required: true } } });
+log('create customer custom field', JSON.stringify(short(dp)));
+dp = await api('POST', 'default_properties', { data: { type: 'default_properties', attributes: { name: '[TEST] Số km lúc giao', property_type: 'text_field', owner_type: 'orders', show_on: ['contract', 'packing'] } } });
+log('create order custom field', JSON.stringify(short(dp)));
+log('IDS', { o });

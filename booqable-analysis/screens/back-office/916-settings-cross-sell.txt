@@ -1,0 +1,67 @@
+https://ghiencafe.booqable.com/settings/cross-sell
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Online bookings
+Cross-sell
+Back office
+General
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Widget setup
+Preferences
+New
+Pickup and delivery
+Checkout
+SEO
+Cross-sell
+Learn more
+Recommend relevant accessories, add-ons, or related products on product and bundle pages in your online store.
+Show cross-sell on product and bundle pages
+When enabled, recommended products added in Inventory or Bundles will appear on product and bundle pages in your online store.
+Product page display
+
+Customize how recommended products appear on product and bundle pages.
+
+Section title
+Section subtitle (optional)
+Layout
+List
+Carousel
+Only show products available for the selected rental period, up to
+Save

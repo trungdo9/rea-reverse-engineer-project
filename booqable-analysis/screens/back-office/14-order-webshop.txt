@@ -1,0 +1,98 @@
+https://ghiencafe.booqable.com/orders/44f5ca95-23dd-4671-92f4-902197b603eb
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Email
+Send email
+View email history (1)
+Documents
+New contract
+New quote
+Packing slip
+Invoices
+1
+Pro forma
+₫600.000
+Payments
+Payment due
+Paid
+₫0
+Due
+₫600.000
+New payment
+Tags
+1
+WEBSHOP
+Add tags
+Notes
+Activity logs
+View activity logs
+Orders
+ #3 
+1 reserved
+Pickup
+Customer
+TES
+[TEST] Khách online B
+test-khach-b@example.com
+Information
+Add field
+[TEST] Số km lúc giao
+Pickup
+
+Pickup from
+
+Main location
+
+Billing address
+
+123 Test Street, Ho Chi Minh City, 700000, Vietnam
+
+Change
+Format: dd-mm-yyyy
+From
+Until
+New
+How's the new period picker working for you?
+Available
+Quantity
+Charge
+Edit for all items
+[TEST] Máy pha cà phê
+1 reserved
+2 left
+3 days
+₫600.000
+₫600.000
+Add custom line
+Subtotal
+₫600.000
+Add a discount
+Add a coupon
+Total discount
+₫0
+Total incl. taxes
+₫600.000
+Security deposit
+100% of product security deposit value
+₫0
+1 product | 1 item

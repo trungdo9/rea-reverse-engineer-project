@@ -1,0 +1,58 @@
+https://ghiencafe.booqable.com/product_groups/new
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Inventory
+New product
+Duplicate product
+General information
+Get started with a name and image for your product. This is how it will be displayed to customers in the online store and on documents.
+Learn more
+Product name
+Upload
+or drop file
+Product type
+Choose whether this product is rented, sold, or used as a service. Each type determines how inventory is tracked and how the product behaves in your system.
+Learn more
+Rental product
+For items meant to be rented and returned.
+Sales item
+For items intended for sale or giveaways.
+Service
+For services associated with rentals, like setup costs.
+Pricing
+Determines how the price will be calculated for a rental period. You can configure more/different settings for the price after the product has been created.
+Flat fee
+Flat rate per period (for example: $50 per day)
+Price
+₫
+Per
+Day
+Other / no pricing
+Fixed fee, pricing structure, or no price at all
+More pricing options will be available after saving the product.
+Variations
+Create different variations of this product, such as different sizes and colors, that you or your customers can choose from when adding items to an order.
+Learn more
+Enable variations
+You can also enable variations after the product is created.
+CancelSave

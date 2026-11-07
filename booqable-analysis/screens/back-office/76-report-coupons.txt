@@ -1,0 +1,56 @@
+https://ghiencafe.booqable.com/reports/coupons?page=1&sort=identifier&filters%5Bperiod_range%5D%5Bvalue%5D=all
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Reports
+Coupons
+Status
+Active
+(1)
+Inactive
+(0)
+Expired
+(0)
+Deleted
+(0)
+Reporting period
+All time
+Export
+Hide metrics
+Active coupons
+1
+Total usage
+1
+Total discount
+-₫260.000
+Coupon code
+Status
+Usage 
+Total discount 
+Tags
+Created at
+TEST10
+Active
+1
+-₫260.000
+06-11-2026
+Showing 1 - 1 of 1

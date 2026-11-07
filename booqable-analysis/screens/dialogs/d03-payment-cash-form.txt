@@ -1,0 +1,110 @@
+https://ghiencafe.booqable.com/orders/dab7dad1-c565-4b4f-bda4-7d4ad0d930b5
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Email
+Send email
+View email history (0)
+Documents
+New contract
+New quote
+Packing slip
+Invoices
+1
+Pro forma
+₫300.000
+Payments
+Payment due
+Paid
+₫0
+Due
+₫300.000
+New payment
+Tags
+Add tags
+Notes
+Activity logs
+View activity logs
+Orders
+ #4 
+1 reserved
+Pickup
+Customer
+TES
+[TEST] Khách hàng A
+test-khach-a@example.com
+Information
+Add field
+[TEST] Số km lúc giao
+Pickup
+
+Pickup from
+
+Main location
+
+Add billing address
+Format: dd-mm-yyyy
+From
+Until
+New
+How's the new period picker working for you?
+Available
+Quantity
+Charge
+Edit for all items
+[TEST] Loa A (1 cái)
+1 reserved
+0 left
+3 days
+₫300.000
+₫300.000
+Add custom line
+Subtotal
+₫300.000
+Add a discount
+Add a coupon
+Total discount
+₫0
+Total incl. taxes
+₫300.000
+Security deposit
+100% of product security deposit value
+₫0
+1 product | 1 item
+Payment for
+₫300.000
+Order amount
+₫300.000
+Security deposit
+₫0
+Payment for order #4
+Cash / other
+Date
+-
+-
+Payment methods
+Cash
+Bank transfer
+Card payment
+Other
+Back
+Pay ₫300.000

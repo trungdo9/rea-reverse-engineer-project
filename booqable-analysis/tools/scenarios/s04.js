@@ -1,0 +1,55 @@
+const C = await mkProduct('[TEST] Loa C (1 cái, trả trễ/sớm)', 100000, 1);
+log('product C', C);
+const plan = async o => (await api('GET', `plannings?filter[order_id]=${o}`)).body.data.map(x => ({ id: x.id, from: x.attributes.reserved_from, till: x.attributes.reserved_till, started: x.attributes.started, stopped: x.attributes.stopped }));
+const startAll = async o => { const ps = await plan(o); return fulfil(o, ps.map(p => ({ action: 'start_product', product_id: C.pid, planning_id: p.id, quantity: 1 }))); };
+const stopAll = async o => { const ps = await plan(o); return fulfil(o, ps.map(p => ({ action: 'stop_product', product_id: C.pid, planning_id: p.id, quantity: 1 }))); };
+
+log('--- S2.1 TRẢ TRỄ: L1 05/11 09:00 -> 06/11 10:00 (đã quá hạn), đã giao, chưa trả');
+const L1 = await newOrder('2026-11-05T09:00', '2026-11-06T10:00');
+await book(L1, C.pid); await step('L1 reserve (period in the past)', trans(L1, 'new', 'reserved'));
+await step('L1 pickup (start_product)', startAll(L1));
+log('L1', await getOrder(L1), await plan(L1));
+const L2 = await newOrder('2026-11-07T09:00', '2026-11-08T09:00');
+await book(L2, C.pid); await step('L2 reserve 07/11 (item still out, overdue)', trans(L2, 'new', 'reserved'));
+await step('L2 pickup while L1 not returned', startAll(L2));
+log('L2', await getOrder(L2));
+const lateList = await api('GET', `orders?filter[stops_at][lte]=${new Date().toISOString()}&filter[statuses][]=started&stats[total][]=count`);
+log('dashboard "late" query count', lateList.body?.meta?.stats?.total?.count);
+await step('L1 return (late)', stopAll(L1));
+log('L1 after late return', await getOrder(L1), await plan(L1));
+
+log('--- S2.2 TRẢ SỚM: E1 20/11-25/11 nhận sớm hôm nay, trả sớm hôm nay');
+const E1 = await newOrder('2026-11-20T09:00', '2026-11-25T09:00');
+await book(E1, C.pid); await step('E1 reserve', trans(E1, 'new', 'reserved'));
+await step('E1 early pickup (before starts_at)', startAll(E1));
+log('E1 after early pickup', await getOrder(E1), await plan(E1));
+const E2 = await newOrder('2026-11-21T09:00', '2026-11-22T09:00');
+await book(E2, C.pid); await step('E2 reserve 21-22/11 while E1 out (expect fail)', trans(E2, 'new', 'reserved'));
+await step('E1 early return (today)', stopAll(E1));
+log('E1 after early return', await getOrder(E1), await plan(E1));
+await step('E2 reserve after E1 returned early', trans(E2, 'new', 'reserved'));
+
+log('--- S2.3 GIA HẠN / DỜI LỊCH đơn đã reserve');
+const G1 = await newOrder('2026-11-26T09:00', '2026-11-27T09:00');
+await book(G1, C.pid); await step('G1 reserve 26-27/11', trans(G1, 'new', 'reserved'));
+const G2 = await newOrder('2026-11-28T09:00', '2026-11-29T09:00');
+await book(G2, C.pid); await step('G2 reserve 28-29/11', trans(G2, 'new', 'reserved'));
+await step('G1 extend stops_at -> 28/11 12:00 (overlaps G2)', setPeriod(G1, null, '2026-11-28T12:00'));
+log('G1 after extend attempt', await getOrder(G1));
+await step('G1 extend stops_at -> 28/11 09:00 (touches G2)', setPeriod(G1, null, '2026-11-28T09:00'));
+log('G1', await getOrder(G1));
+await step('G2 move earlier -> 27/11 09:00-28/11 09:00 (into G1)', setPeriod(G2, '2026-11-27T09:00', '2026-11-28T09:00'));
+log('G2 after move attempt', await getOrder(G2));
+
+log('--- S2.4 HỦY / QUAY LẠI DRAFT giải phóng hàng');
+const H1 = await newOrder('2026-11-26T12:00', '2026-11-27T12:00');
+await book(H1, C.pid); await step('H1 reserve (overlaps G1)', trans(H1, 'new', 'reserved'));
+await step('G1 reserved -> canceled', trans(G1, 'reserved', 'canceled'));
+await step('H1 reserve after G1 canceled', trans(H1, 'new', 'reserved'));
+await step('H1 revert reserved -> draft', api('POST', 'order_status_transitions', { data: { type: 'order_status_transitions', attributes: { order_id: H1, transition_from: 'reserved', transition_to: 'draft', revert: true } } }));
+log('H1', await getOrder(H1));
+const H2 = await newOrder('2026-11-26T12:00', '2026-11-27T12:00');
+await book(H2, C.pid); await step('H2 reserve same slot after H1 back to draft', trans(H2, 'new', 'reserved'));
+await step('H1 draft -> reserved again (H2 holds it)', trans(H1, 'draft', 'reserved'));
+await step('G1 canceled -> reserved (revert cancel)', api('POST', 'order_status_transitions', { data: { type: 'order_status_transitions', attributes: { order_id: G1, transition_from: 'canceled', transition_to: 'reserved', revert: true } } }));
+log('IDS', { L1, L2, E1, E2, G1, G2, H1, H2 });

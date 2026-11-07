@@ -1,0 +1,113 @@
+https://ghiencafe.booqable.com/settings/prices
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Back office
+Pricing
+Back office
+General
+Pricing
+General
+Pricing structure templates
+Advanced pricing
+Security deposits
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Pickup and delivery
+Checkout
+SEO
+General
+
+Enable or disable pricing for your rentals.
+
+Disabling pricing hides rental prices and simplifies the interface, but security deposits can still be added manually.
+
+Learn more
+Enable pricing
+Set rental prices and create quotes and invoices.
+Disable pricing
+Hide rental prices from the interface and your online store. You can still add security deposits manually.
+Currency
+Vietnamese Đồng
+Display currency as
+Symbol (₫)
+Currency position
+Before amount
+Example
+₫126
+Save
+Pricing structure templates
+Creating Pricing Structure Templates
+Watch video
+Create pricing structure templates for multiple products following the same pricing structure.
+Example: Charge per hour (with 3 hours minimum charge)
+Preview
+Example: Charge per day (with 50% off for every extra day after 3 days)
+Preview
+Example: Charge per day (with 1 week minimum charge)
+Preview
+Example: Charge per week (with 20% off for every extra week after 4 weeks)
+Preview
+Showing 1 - 4 of 4
+Add a new pricing structure template
+Advanced pricing
+Creating pricing rulesets
+Watch video
+Set up advanced pricing for seasons, weekends, pick up/return day, and more.
+[TEST] Cuối tuần
+PreviewDuplicate
+Showing 1 - 1 of 1
+New pricing ruleset
+Security deposits
+Charging Security Deposits
+Watch video
+Security deposits help protect your products. You can set a default deposit here and override it per customer or per order.
+
+Learn more
+Default security deposit
+Set the default security deposit for new orders. This can be overridden per customer or per order.
+No deposit
+No security deposit is charged by default.
+Percentage of order total
+Charge a percentage of the total order value. For manual payments, you can also choose to authorize the deposit instead of charging it immediately.
+Use product-specific security deposits
+Calculate the deposit based on the security deposit set for each product. Product security deposits are set per product in Inventory.
+Fixed amount
+Charge a fixed security deposit for every order. For manual payments, you can also choose to authorize the deposit instead of charging it immediately.
+Save

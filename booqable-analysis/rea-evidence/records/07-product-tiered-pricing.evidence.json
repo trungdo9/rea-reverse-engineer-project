@@ -1,0 +1,87 @@
+{
+  "evidence_id": "ev_1377bf6263fd48de8efbb0469d8dbc72df10772bb13ca62ea9b75877fe934a53",
+  "subject": null,
+  "provider": {
+    "id": "rea-cdp-browser",
+    "name": "REA Chrome DevTools Protocol observation provider",
+    "version": "2"
+  },
+  "analysis_profile": null,
+  "predicate_type": "rea.web-screenshot",
+  "operation": "capture_web_screenshot",
+  "parameters": {
+    "cdp_endpoint": "http://127.0.0.1:9333",
+    "allowed_origins": [
+      "https://ghiencafe.booqable.com"
+    ],
+    "target_id": "9D6BF2CADE664D16242F01B238856D6D"
+  },
+  "raw_result": null,
+  "normalized_result": {
+    "browser": {
+      "product": "Chrome/155.0.8059.85",
+      "protocol_version": "1.3",
+      "revision": "537.36 (@0e66b94549a8bd85f03fbdf189b752d6e7b63c32)",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+      "js_version": "15.5.35.25"
+    },
+    "target": {
+      "target_id": "9D6BF2CADE664D16242F01B238856D6D",
+      "url": "https://ghiencafe.booqable.com/product_groups/c917bb4f-c8e9-4e64-ae95-0180fd343050/pricing",
+      "origin": "https://ghiencafe.booqable.com"
+    },
+    "captured_at": "2026-11-07T03:48:11.460Z",
+    "viewport": {
+      "width": 1424,
+      "height": 805
+    },
+    "artifact": {
+      "sha256": "e33e3eabd7f0de349c85d95e0fa030c6b8518a28af8f50088c69933d4274a046",
+      "bytes": 144541,
+      "media_type": "image/png",
+      "data_base64": "<see screens/07-product-tiered-pricing.png>"
+    },
+    "completeness": {
+      "status": "complete_within_window",
+      "conditions": [
+        "complete_within_window"
+      ],
+      "policy_filtered_sections": [],
+      "attach_limited_sections": [],
+      "truncated_sections": [],
+      "unavailable_sections": [],
+      "excluded": [],
+      "dropped_events": {
+        "scripts": 0,
+        "network_requests": 0,
+        "console_events": 0,
+        "websocket_connections": 0,
+        "websocket_frames": 0,
+        "webmcp_tools": 0,
+        "timeline_events": 0,
+        "total": 0
+      }
+    },
+    "limitations": [
+      "The screenshot contains the visible viewport, including on-screen content.",
+      "REA does not scroll, evaluate JavaScript, or capture beyond the current viewport."
+    ]
+  },
+  "confidence": "observed",
+  "authority": "external-service",
+  "environment": {
+    "id": "Chrome/155.0.8059.85@537.36 (@0e66b94549a8bd85f03fbdf189b752d6e7b63c32)",
+    "platform": "unknown",
+    "architecture": "unknown",
+    "isolation": "none"
+  },
+  "limitations": [
+    "Artifact identity is unavailable for this observation.",
+    "The screenshot contains the visible viewport, including on-screen content.",
+    "REA does not scroll, evaluate JavaScript, or capture beyond the current viewport.",
+    "Browser host platform and architecture were not observed."
+  ],
+  "relationship_coverage": null,
+  "locations": [],
+  "evidence_links": []
+}

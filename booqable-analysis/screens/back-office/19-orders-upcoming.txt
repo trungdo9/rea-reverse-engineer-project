@@ -1,0 +1,333 @@
+https://ghiencafe.booqable.com/orders/upcoming?page=1&sort=starts_at&filters%5Bstatuses%5D%5B0%5D=reserved&filters%5Bstarts_at%5D%5Bgt%5D=2026-11-07T10%3A51%3A04Z
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Orders
+Add order
+Activity
+Select...
+Location
+Pickup location
+All
+Return location
+All
+Payment status
+Payment due
+(27)
+Partially paid
+(0)
+Paid
+(2)
+Overpaid
+(0)
+Process deposit
+(0)
+Tag
+WEBSHOP1
+Export
+All
+Upcoming
+Late
+With shortage
+Hide metrics
+Orders
+29
+Items ordered
+36
+Revenue
+₫6.370.000
+Due
+₫6.370.000
+Actions0 orders selectedSelect all 29 orders
+Showing 1 - 29 of 29
+#
+Customer
+Status
+From
+Until
+Price
+Payment status
+Tags
+New
+#21
+TES[TEST] Khách hàng A
+Reserved
+09-11-2026 09:00
+Main location
+10-11-2026 09:00
+Main location
+₫100.000
+Payment due
+#25
+TES[TEST] Khách hàng A
+Reserved
+12-11-2026 09:00
+Main location
+13-11-2026 09:00
+Main location
+₫100.000
+Payment due
+#3
+TES[TEST] Khách online B
+Reserved
+16-11-2026 10:00
+Main location
+18-11-2026 17:00
+Main location
+₫600.000
+Payment due
+WEBSHOP
+#4
+TES[TEST] Khách hàng A
+Reserved
+20-11-2026 09:00
+Main location
+22-11-2026 15:00
+Main location
+₫300.000
+Payment due
+#15
+TES[TEST] Khách hàng A
+Reserved
+21-11-2026 09:00
+Main location
+23-11-2026 09:00
+Main location
+₫200.000
+Payment due
+#5
+TES[TEST] Khách hàng A
+Reserved
+22-11-2026 15:00
+Main location
+24-11-2026 15:00
+Main location
+₫200.000
+Payment due
+#6
+TES[TEST] Khách hàng A
+Reserved
+24-11-2026 16:00
+Main location
+25-11-2026 09:00
+Main location
+₫100.000
+Payment due
+#7
+TES[TEST] Khách hàng A
+Reserved
+26-11-2026 09:00
+Main location
+27-11-2026 09:00
+Main location
+₫100.000
+Payment due
+#19
+TES[TEST] Khách hàng A
+Reserved
+26-11-2026 12:00
+Main location
+27-11-2026 12:00
+Main location
+₫100.000
+Payment due
+#8
+TES[TEST] Khách hàng A
+Reserved
+27-11-2026 10:00
+Main location
+28-11-2026 09:00
+Main location
+₫100.000
+Payment due
+#17
+TES[TEST] Khách hàng A
+Reserved
+28-11-2026 09:00
+Main location
+29-11-2026 09:00
+Main location
+₫100.000
+Payment due
+#9
+TES[TEST] Khách hàng A
+Reserved
+01-12-2026 09:00
+Main location
+02-12-2026 09:00
+Main location
+₫100.000
+Payment due
+#10
+TES[TEST] Khách hàng A
+Reserved
+02-12-2026 11:00
+Main location
+03-12-2026 09:00
+Main location
+₫100.000
+Payment due
+#11
+TES[TEST] Khách hàng A
+Reserved
+05-12-2026 10:00
+Main location
+06-12-2026 09:00
+Main location
+₫100.000
+Payment due
+#22
+TES[TEST] Khách hàng A
+Reserved
+10-12-2026 09:00
+Main location
+12-12-2026 09:00
+Main location
+₫400.000
+Payment due
+#23
+TES[TEST] Khách hàng A
+Reserved
+11-12-2026 09:00
+Main location
+13-12-2026 09:00
+Main location
+₫200.000
+Payment due
+#24
+TES[TEST] Khách hàng A
+Reserved
+11-12-2026 09:00
+Main location
+13-12-2026 09:00
+Main location
+₫200.000
+Payment due
+#31
+TES[TEST] Khách hàng A
+Reserved
+20-12-2026 09:00
+Main location
+21-12-2026 09:00
+Main location
+₫300.000
+Payment due
+#28
+TES[TEST] Khách hàng A
+Reserved
+26-12-2026 09:00
+Main location
+27-12-2026 09:00
+Main location
+₫300.000
+Payment due
+#29
+TES[TEST] Khách hàng A
+Reserved
+26-12-2026 09:00
+Main location
+27-12-2026 09:00
+Main location
+₫300.000
+Payment due
+#30
+TES[TEST] Khách hàng A
+Reserved
+28-12-2026 09:00
+Main location
+29-12-2026 09:00
+Main location
+₫600.000
+Payment due
+#32
+TES[TEST] Khách hàng A
+Reserved
+29-12-2026 10:00
+Main location
+29-12-2026 18:00
+Main location
+₫300.000
+Payment due
+#33
+TES[TEST] Khách hàng A
+Reserved
+05-01-2027 09:00
+Main location
+06-01-2027 09:00
+Main location
+₫300.000
+Payment due
+#34
+TES[TEST] Khách hàng A
+Reserved
+11-01-2027 09:00
+Main location
+12-01-2027 09:00
+Main location
+₫200.000
+Payment due
+#35
+TES[TEST] Khách hàng A
+Reserved
+22-01-2027 09:00
+[TEST] Kho Quận 7
+23-01-2027 09:00
+Main location
+₫200.000
+Payment due
+#37
+TES[TEST] Khách hàng A
+Reserved
+01-02-2027 09:00
+Main location
+03-02-2027 09:00
+Main location
+₫500.000
+Payment due
+#60
+TES[TEST] Khách hàng A
+Reserved
+01-03-2027 09:00
+Main location
+02-03-2027 09:00
+Main location
+₫270.000
+Payment due
+#58
+TES[TEST] Khách hàng A
+Reserved
+10-03-2027 09:00
+Main location
+11-03-2027 09:00
+Main location
+₫0
+Paid
+#59
+TES[TEST] Khách hàng A
+Reserved
+10-03-2027 12:00
+Main location
+11-03-2027 12:00
+Main location
+₫0
+Paid
+Showing 1 - 29 of 29

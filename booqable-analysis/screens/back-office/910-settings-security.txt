@@ -1,0 +1,92 @@
+https://ghiencafe.booqable.com/settings/security
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Back office
+Security
+Back office
+General
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Two Factor Authentication
+Email confirmation for new devices
+IP Restrictions
+Single Sign-On
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Pickup and delivery
+Checkout
+SEO
+Require 2FA for all users
+
+Require all users to set up two-factor authentication (2FA) to better protect your account.
+
+Users will be prompted to complete setup the next time they log in.
+
+Users can enable 2FA for their own account at any time in their personal settings.
+
+Learn more
+Require 2FA for all users
+Prompt users to set up two-factor authentication next time they log in if it is not already set up.
+Email confirmation for new devices
+When someone signs in from a device Booqable doesn't recognize, they will receive an email with a code to confirm it's really them.
+Require email confirmation on new devices
+Turn this off only if this causes repeated confirmation prompts on a shared or public computer (for example, a kiosk) where Booqable can't remember the device between sign-ins.
+IP Restrictions
+Restrict access to your account to specific IP addresses. Anyone outside this list will be blocked.
+Learn more
+Enable IP restrictions
+Only allow access from the IP addresses listed below. This does not apply to the account owner.
+Add allowed IP Address
+Single sign-on (SSO)
+Let your team log in to Booqable using your company’s identity provider (such as Okta or Google Workspace). Learn more
+Require SSO for all users
+Only allow users to sign in using SSO. Make sure your setup is tested before enabling this.
+Booqable SSO settings
+Use these values when setting up Booqable in your identity provider.
+Download XML configuration
+ACS URL
+Booqable Entity ID
+Name ID format
+Test login link
+Use this link to test your SSO setup. Copy the link and log out before testing to check the full login flow.
+Identity provider details
+Enter the login URL provided by your identity provider.
+Identity Provider Login URL
+Identity Provider Certificate
+Save

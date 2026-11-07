@@ -1,0 +1,205 @@
+https://ghiencafe.booqable.com/settings/online-reservations
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Online bookings
+Preferences
+Back office
+General
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Customer accounts
+Availability
+Last minute bookings
+Add to cart button
+Coupon codes
+Branding
+Favicon
+Sorting
+Show prices
+Custom domain
+Online store status
+Pickup and delivery
+Checkout
+SEO
+Customer accounts
+
+Allow customers to create an account and log in to your online store. Logging in can speed up checkout and may be required to browse or place orders depending on your settings.
+
+Learn more
+Enable customer accounts
+Customers can log in during checkout or when accessing your online store.
+Accounts are optional
+Customers can either log in or check out as guests.
+Accounts are required
+Customers can only check out if they have an account.
+Accounts are required to browse the online store
+Customers must log in before they can browse your online store.
+Customers can create an account
+When enabled, customers will see the option to create an account during checkout. You can still invite them for an account manually.
+Require CAPTCHA on customer registration
+Protect the signup form from automated abuse using Google reCAPTCHA v3. Customers won't see a challenge — it runs invisibly in the background.
+New accounts need to verify email
+Email addresses for new accounts need to be verified.
+Save
+Availability
+
+Toggle product availability for your online store.
+
+Learn more
+Enable availability
+Display product availability for the selected rental period in your online store.
+Customers can only place a reservation when all items are available.
+Items on the Order are automatically reserved.
+Product availability
+Show product availability calendar
+Display calendar when Customers check product availability.
+Hide quantities
+Show product availability without specific quantities.
+Shopping cart availability
+Show shopping cart availability
+Show whether all items in the Customer’s cart are available when selecting dates.
+Disable availability
+Product availability is not displayed.
+Customers can place orders regardless of product availability.
+Creates a draft Order: items are not automatically reserved.
+Product availability
+Shopping cart availability
+Save
+Last minute bookings
+
+Set a minimum period before the pickup time of a new order to block last-minute bookings.
+
+Prevent last-minute bookings
+Only allow new bookings a set amount of time in advance.
+Save
+Add to cart button
+
+Choose what happens when a customer clicks the "Add to cart" button for a product.
+
+Learn more
+When clicking the Add-button for a product:
+Add to shopping cart
+The product is added to a shopping cart - for ordering multiple products at a time.
+Go to checkout
+Hide the shopping cart and go directly to checkout - for ordering a single product at a time.
+Save
+Coupons
+Manage coupon codes
+Enable coupons on your online store
+Allow customers to redeem a coupon code in your online store to receive a discount. If this is left unchecked, coupon codes can still be applied to manual orders.
+Save
+Branding
+Choose colors that match your branding
+Brand color
+An accent color for the buttons, shopping cart and checkout.
+If you apply a theme in the website builder, its accent color overrides this one where the builder reaches. This color stays on pages the builder can't customize, like checkout and the customer order page.
+Availability color
+If you choose to show availability in your period picker, select a background color for available days
+Sage
+Checkout backgroundNew
+Background color for the order summary panel. The form side always stays white.
+Booqable link
+Display "Powered by Booqable" in your shopping cart and theme footer.
+Add to cart
+Save
+Favicon
+
+Upload a favicon for your website. Your favicon will be visible in the browser tab while viewing your online store and checkout.
+
+Favicon image
+Click to upload
+or drag and drop
+Upload a square image with a size of 48 by 48 pixels or 64 by 64 pixels
+You can upload the following image types: .ico, .jpg, .svg, .png
+Save
+Sorting
+
+Choose the default way of sorting products and collections on your online store.
+
+Default product sorting
+Relevance
+Shows products in the order you arranged them in your collections.
+Default collection sorting
+Name
+Save
+Show prices
+
+Show product prices in your online store, or hide them to let customers request quotes for example.
+
+Learn more
+Show prices in the online store
+Prices for products are shown in your store, cart and checkout.
+Show product prices as
+Charge period
+Show the label for the duration that’s charged, regardless of the rental period.
+The charge period can be different from the rental period depending on your
+product price settings.
+Rental period
+Show the label for the rental period, regardless of the duration that’s charged.
+Base price
+Show the label for the base price, regardless of the selected rental period.
+Hide prices in the online store
+Prices are hidden, and customers will not pay for items during checkout. This can be
+useful when you want customers to request a quote.
+Save
+Custom domain
+
+Use a custom domain for your Booqable checkout to offer customers a seamless experience.
+
+Learn more
+Connect your domain
+Connect your domain to your online store or your store’s checkout page.
+Custom domains come with an SSL certificate.
+Connect your domain
+If you haven’t purchased a domain name yet, you need to do so before attaching it to your
+Booqable online store. You can purchase your domain from your domain provider of choice.
+Online store status
+
+Your Booqable account comes with the Booqable online store to accept bookings, or:
+
+Install Booqable on your website
+Enable online bookings
+Accept bookings from your own website or the Booqable online store.
+Enable Booqable online store
+Enable your ready-made customizable store.
+Your online store
+https://ghiencafe.booqableshop.com
+View online store

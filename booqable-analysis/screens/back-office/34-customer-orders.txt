@@ -1,0 +1,287 @@
+https://ghiencafe.booqable.com/customers/1c0e12de-aaa7-4beb-870f-110469a4c938/orders
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Customers
+TES[TEST] Khách hàng A
+Tags
+Add tags
+Barcode
+KHA
+Edit barcode
+Notes
+Activity logs
+View activity logs
+Information
+Orders
+Payment methods
+Accounts
+#
+Status
+Pick up
+Return
+Price
+Payment status
+#79
+Returned
+01-06-2027 09:00
+Main location
+03-06-2027 09:00
+Main location
+₫3.000.000
+Paid
+#80
+Draft
+01-05-2027 09:00
+Main location
+03-05-2027 09:00
+Main location
+₫2.000.000
+Payment due
+#78
+Draft
+10-04-2027 09:00
+Main location
+11-04-2027 11:00
+Main location
+₫2.600.000
+Payment due
+#77
+Draft
+10-04-2027 09:00
+Main location
+10-04-2027 14:00
+Main location
+₫500.000
+Payment due
+#76
+Draft
+10-04-2027 09:00
+Main location
+10-04-2027 12:00
+Main location
+₫300.000
+Payment due
+#75
+Draft
+10-04-2027 09:00
+Main location
+10-04-2027 10:00
+Main location
+₫300.000
+Payment due
+#74
+Draft
+01-04-2027 09:00
+Main location
+08-04-2027 09:00
+Main location
+₫5.000.000
+Payment due
+#73
+Draft
+01-04-2027 09:00
+Main location
+06-04-2027 09:00
+Main location
+₫4.000.000
+Payment due
+#72
+Draft
+01-04-2027 09:00
+Main location
+05-04-2027 09:00
+Main location
+₫3.500.000
+Payment due
+#71
+Draft
+01-04-2027 09:00
+Main location
+04-04-2027 09:00
+Main location
+₫3.000.000
+Payment due
+#70
+Draft
+01-04-2027 09:00
+Main location
+02-04-2027 09:00
+Main location
+₫1.000.000
+Payment due
+#69
+Draft
+10-04-2027 09:00
+Main location
+11-04-2027 11:00
+Main location
+₫0
+Paid
+#68
+Draft
+10-04-2027 09:00
+Main location
+10-04-2027 14:00
+Main location
+₫0
+Paid
+#67
+Draft
+10-04-2027 09:00
+Main location
+10-04-2027 12:00
+Main location
+₫0
+Paid
+#66
+Draft
+10-04-2027 09:00
+Main location
+10-04-2027 10:00
+Main location
+₫0
+Paid
+#65
+Draft
+01-04-2027 09:00
+Main location
+08-04-2027 09:00
+Main location
+₫0
+Paid
+#64
+Draft
+01-04-2027 09:00
+Main location
+06-04-2027 09:00
+Main location
+₫0
+Paid
+#63
+Draft
+01-04-2027 09:00
+Main location
+05-04-2027 09:00
+Main location
+₫0
+Paid
+#62
+Draft
+01-04-2027 09:00
+Main location
+04-04-2027 09:00
+Main location
+₫0
+Paid
+#61
+Draft
+01-04-2027 09:00
+Main location
+02-04-2027 09:00
+Main location
+₫0
+Paid
+#60
+Reserved
+01-03-2027 09:00
+Main location
+02-03-2027 09:00
+Main location
+₫270.000
+Payment due
+#59
+Reserved
+10-03-2027 12:00
+Main location
+11-03-2027 12:00
+Main location
+₫0
+Paid
+#81
+Draft
+10-03-2027 12:00
+Main location
+11-03-2027 12:00
+Main location
+₫0
+Paid
+#58
+Reserved
+10-03-2027 09:00
+Main location
+11-03-2027 09:00
+Main location
+₫0
+Paid
+#57
+Picked up
+06-11-2026 17:00
+Main location
+07-11-2026 17:00
+Main location
+₫300.000
+Paid
+#38
+Draft
+10-02-2027 09:00
+Main location
+11-02-2027 09:00
+Main location
+₫1.000.000
+Payment due
+#37
+Reserved
+01-02-2027 09:00
+Main location
+03-02-2027 09:00
+Main location
+₫500.000
+Payment due
+#36
+Returned
+25-01-2027 09:00
+Main location
+27-01-2027 09:00
+Main location
+₫2.340.000
+Payment due
+#35
+Reserved
+22-01-2027 09:00
+[TEST] Kho Quận 7
+23-01-2027 09:00
+Main location
+₫200.000
+Payment due
+#52
+Draft
+20-01-2027 09:00
+Main location
+21-01-2027 09:00
+Main location
+₫400.000
+Payment due
+Showing 1 - 30 of 80
+1
+2
+3

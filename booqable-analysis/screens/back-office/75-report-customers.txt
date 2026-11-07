@@ -1,0 +1,107 @@
+https://ghiencafe.booqable.com/reports/customers?page=1&sort=-number&filters%5Bperformance_range%5D%5Bvalue%5D=this_week&filters%5Brevenue_type%5D=orders&filters%5Border_statuses%5D%5B0%5D=reserved&filters%5Border_statuses%5D%5B1%5D=started&filters%5Border_statuses%5D%5B2%5D=stopped&filters%5Border_statuses%5D%5B3%5D=archived&filters%5Bcreated_range%5D%5Bvalue%5D=all&filters%5Blatest_order_range%5D%5Bvalue%5D=all
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Reports
+Customers
+Performance
+This week
+01-11-2026
+07-11-2026
+Show revenue by
+Orders
+Status
+Draft
+(0)
+Reserved
+(1)
+Started
+(1)
+Returned
+(1)
+Archived
+(0)
+Canceled
+(0)
+Customer type
+Individual
+Company
+Marketing emails
+Subscribed
+Not subscribed
+Customer created
+All time
+Latest order
+All time
+Export
+Hide metrics
+New customers
+3
+Total revenue
+₫600.000
+Average order value
+₫200.000
+Total balance due
+₫300.000
+#
+Name
+Email
+Discount % 
+Balance due 
+Orders
+Revenue 
+Revenue % 
+Avg. order value
+AOV deviation 
+Tags
+New
+3
+[TEST] Khách online B
+test-khach-b@example.com
+0%
+₫0
+0
+₫0
+0.0%
+₫0
+N/A
+2
+[TEST] Khách hàng A
+test-khach-a@example.com
+0%
+₫300.000
+3
+₫600.000
+100.0%
+₫200.000
+0%
+1
+Trung Do
+minhtrung.4791@gmail.com
+0%
+₫0
+0
+₫0
+0.0%
+₫0
+N/A
+Showing 1 - 3 of 3

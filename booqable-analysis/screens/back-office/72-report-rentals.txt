@@ -1,0 +1,161 @@
+https://ghiencafe.booqable.com/reports/rentals?page=1&sort=-rent_duration_in_seconds&filters%5Brange%5D%5Bvalue%5D=last_month&filters%5Brange%5D%5Bfrom%5D=2026-10-01T00%3A00%3A00.000Z&filters%5Brange%5D%5Btill%5D=2026-10-31T23%3A59%3A59.999Z&filters%5Barchived%5D=false&filters%5Brevenue_type%5D=orders
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Reports
+Product performance
+Show revenue by
+Orders
+Status
+Active
+Tracking type
+Trackable
+(6)
+Bulk
+(14)
+Reporting period
+Last month
+01-10-2026
+31-10-2026
+Export
+Rental products
+Stock items
+Sales items
+Services
+All locations
+Product
+Added
+Quantity 
+Rented 
+Rent duration 
+Charge duration 
+Downtime 
+Downtime duration 
+Purchase cost 
+Revenue 
+Profit 
+ROI 
+Tags
+New
+[TEST] Loa A (1 cái)
+06-11-2026 15:00
+1
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+[TEST] Loa B (1 cái, có buffer)
+06-11-2026 15:02
+1
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+[TEST] Loa C (1 cái, trả trễ/sớm)
+06-11-2026 15:03
+1
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+[TEST] Loa D (3 cái)
+06-11-2026 15:04
+5
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+[TEST] Máy chiếu (2 serial)
+06-11-2026 15:08
+2
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+[TEST] Máy pha cà phê
+06-11-2026 14:11
+3
+0
+0 hours
+0 hours
+0
+0 hours
+₫45.000.000
+₫0
+-₫45.000.000
+-100%
+[TEST] Máy quay (giá theo giờ, tối thiểu 3h)
+06-11-2026 15:56
+1
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+[TEST] Váy cưới đuôi cá - M, Kem
+06-11-2026 15:55
+1
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+[TEST] Váy cưới đuôi cá - M, Trắng
+06-11-2026 15:55
+1
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+[TEST] Váy cưới đuôi cá - S, Trắng
+06-11-2026 15:55
+1
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+[TEST] Xe tự lái (giá bậc thang ngày)
+06-11-2026 15:56
+1
+0
+0 hours
+0 hours
+0
+0 hours
+₫0
+Showing 1 - 11 of 11

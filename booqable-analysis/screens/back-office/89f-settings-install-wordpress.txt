@@ -1,0 +1,76 @@
+https://ghiencafe.booqable.com/settings/online-reservations/install-wordpress
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Online bookings
+Install on WordPress
+Back office
+General
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Pickup and delivery
+Checkout
+SEO
+Install the WordPress plugin
+Install on WordPress
+Watch video
+Add a shopping cart and secure checkout to your WordPress website.
+
+Learn more
+Step 1 - Get the plugin
+In WordPress, go to Plugins > Add New, search for Booqable and install the plugin.
+Step 2 - Connect to your Booqable Account
+In WordPress, go to Settings > Booqable and fill in your company ID:
+Company ID
+Add shortcodes
+Add a shopping cart and secure checkout to your WordPress website.
+
+Learn more
+Step 3 - Add elements to your website
+Paste shortcodes to embed a date picker, product cards, buttons or lists in any page or post.
+Here are some examples to get you started:
+Date picker shortcode
+Let customers choose a rental period to see pricing and availability.
+List of products shortcode
+Use [parameters] to show products with certain tags, or limit the number of items per page.
+Single product shortcode
+Add a product anywhere (useful to show related or highlighted products for example).
+Product button shortcode
+Only embed an "Add to cart" button (useful to integrate Booqable into your existing design).

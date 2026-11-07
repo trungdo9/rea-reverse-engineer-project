@@ -1,0 +1,43 @@
+const C = { pgId: 'acbc8e09-e6f9-4192-b3f7-0abe2a024e85', pid: 'c5e95d23-1b8a-4a79-a0e9-b8a72534078c' };
+const G1 = '27467da4-58bc-4d4d-abff-a941813ceb8b';
+const plan = async o => (await api('GET', `plannings?filter[order_id]=${o}`)).body.data.map(x => ({ id: x.id, pid: x.attributes.product_id, q: x.attributes.quantity, from: x.attributes.reserved_from, till: x.attributes.reserved_till }));
+const startAll = async o => { const ps = await plan(o); return fulfil(o, ps.map(p => ({ action: 'start_product', product_id: p.pid, planning_id: p.id, quantity: p.q }))); };
+const lines = async o => (await api('GET', `lines?filter[order_id]=${o}`)).body.data.map(l => ({ title: l.attributes.title, q: l.attributes.quantity, charge: l.attributes.charge_label, len: l.attributes.charge_length, price_each: l.attributes.price_each_in_cents / 100, total: l.attributes.price_in_cents / 100 }));
+
+log('--- S2.3b giá dòng sau khi gia hạn G1 (26/11 09:00 -> 28/11 09:00)');
+log('G1 lines', await lines(G1), await getOrder(G1));
+
+log('--- S2.5 NHẬN SỚM 9 ngày: K1 15-16/11 giao ngay hôm nay');
+const K1 = await newOrder('2026-11-15T09:00', '2026-11-16T09:00');
+await book(K1, C.pid); await step('K1 reserve', trans(K1, 'new', 'reserved'));
+await step('K1 early pickup today', startAll(K1));
+log('K1 planning after early pickup', await plan(K1));
+const K2 = await newOrder('2026-11-09T09:00', '2026-11-10T09:00');
+await book(K2, C.pid); await step('K2 reserve 09-10/11 (máy đang ở chỗ khách K1)', trans(K2, 'new', 'reserved'));
+await step('K2 pickup', startAll(K2));
+log('K2', await getOrder(K2));
+
+log('--- S3 SỐ LƯỢNG & SHORTAGE LIMIT (Loa D, 3 cái)');
+const D = await mkProduct('[TEST] Loa D (3 cái)', 100000, 3);
+log('product D', D);
+const Q1 = await newOrder('2026-12-10T09:00', '2026-12-12T09:00');
+await step('Q1 book x2', book(Q1, D.pid, 2)); await step('Q1 reserve (2/3)', trans(Q1, 'new', 'reserved'));
+const Q2 = await newOrder('2026-12-11T09:00', '2026-12-13T09:00');
+await step('Q2 book x2', book(Q2, D.pid, 2)); await step('Q2 reserve (needs 2, only 1 left)', trans(Q2, 'new', 'reserved'));
+const Q3 = await newOrder('2026-12-11T09:00', '2026-12-13T09:00');
+await book(Q3, D.pid, 1); await step('Q3 reserve x1 (exactly last unit)', trans(Q3, 'new', 'reserved'));
+let r = await api('PATCH', `product_groups/${D.pgId}`, { data: { type: 'product_groups', id: D.pgId, attributes: { allow_shortage: true, shortage_limit: 1 } } });
+log('set allow_shortage=true, shortage_limit=1', short(r));
+await step('Q2 reserve again (shortage 2 > limit 1)', trans(Q2, 'new', 'reserved'));
+const Q4 = await newOrder('2026-12-11T09:00', '2026-12-13T09:00');
+await book(Q4, D.pid, 1);
+r = await trans(Q4, 'new', 'reserved'); log('Q4 reserve x1 (shortage 1 = limit) no confirm'.padEnd(58), JSON.stringify(short(r)));
+if (r.status >= 300) await step('Q4 reserve with confirm_shortage=true', trans(Q4, 'new', 'reserved', { confirm_shortage: true }));
+log('Q4', await getOrder(Q4));
+const Q5 = await newOrder('2026-12-11T09:00', '2026-12-13T09:00');
+await book(Q5, D.pid, 1); await step('Q5 reserve x1 (shortage would be 2)', trans(Q5, 'new', 'reserved', { confirm_shortage: true }));
+log('--- S3.2 rút bớt kho khi đã có đơn giữ hàng');
+r = await api('POST', 'stock_adjustments', { data: { type: 'stock_adjustments', attributes: { product_id: D.pid, location_id: LOC, quantity: -1 } } });
+log('stock_adjustment -1 (đã giữ 4/3 trong 11-12/12)', short(r));
+log('Q1', await getOrder(Q1), 'Q3', await getOrder(Q3));
+log('IDS', { K1, K2, Q1, Q2, Q3, Q4, Q5, D });

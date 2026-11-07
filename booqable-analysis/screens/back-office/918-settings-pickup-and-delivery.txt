@@ -1,0 +1,97 @@
+https://ghiencafe.booqable.com/settings/pickup-and-delivery
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Online bookings
+Pickup and delivery
+Back office
+General
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Pickup and delivery
+Default fulfillment method
+Location selection
+Delivery countries
+Delivery address
+Checkout
+SEO
+Default fulfillment method
+
+Choose whether Pickup or Delivery is preselected in your online store. Customers can change this when booking.
+
+Learn more
+Pickup
+Delivery
+Save
+Location selection for pickups
+
+Set how customers select the pick up and return locations for online rentals, and set the default location.
+
+Learn more
+Only select the pickup location
+Set how customers select the pick up and return locations for online rentals.
+Don't select locations
+Locations are automatically set to your online store's default locations.
+Default pickup location
+Automatic
+Applies to pickup orders only, even when Delivery is the preferred method.
+Also used when Location selection is set to “Don't select locations”.
+Save
+Discover deliveries
+Offer delivery on your orders by installing deliveries from the app store.
+View deliveries
+Delivery countries
+
+Select the countries that can be selected for delivery.
+
+Available countries
+Select...
+If no countries are selected, a full list of all countries worldwide will be shown in your online store.
+Save
+Delivery address in period picker
+
+Choose whether customers must enter their address for delivery when selecting a rental period
+
+Require delivery address when selecting a rental period
+Show a delivery address form when selecting dates for an order in the online store. When disabled, customers enter their delivery address during checkout.
+Disable this for a faster and simpler experience, especially for stores with one location.
+This feature is always active for stores with multiple locations, ensuring that product availability is displayed at the location closest to the delivery address.
+Example
+Save

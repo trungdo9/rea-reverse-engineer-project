@@ -1,0 +1,102 @@
+https://ghiencafe.booqable.com/settings/taxes
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Back office
+Taxes
+Back office
+General
+Pricing
+Taxes
+General
+Product tax profiles
+Customer tax profiles
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Pickup and delivery
+Checkout
+SEO
+General
+Choose whether your prices include or exclude tax. This affects how prices are entered and shown to customers.
+
+Taxes are calculated using product tax profiles and optional customer tax rules.
+
+Learn more
+Product prices include tax
+Prices you enter in the product's price settings already include tax.
+Preview
+Product price
+₫5
+Total excluding taxes
+₫5
+Tax (10%)
+₫0
+Total including taxes
+₫5
+Product prices exclude tax
+The product prices you enter exclude taxes.
+Preview
+Product price
+₫5
+Total excluding taxes
+₫5
+Tax (10%)
+₫1
+Total including taxes
+₫6
+Save
+Product tax profiles
+Working with taxes
+Watch video
+Create tax rates and assign them to each product to control how they're taxed.
+
+This will allow different products to be taxed differently.
+
+Learn more
+Add your first product tax profile
+This will allow different products to be taxed differently.
+Learn more
+Create product tax profile
+Customer tax profiles
+Set tax rules for specific customers or regions. Customer taxes can be added to, replaced, or calculated on top of other taxes.
+
+Learn more
+Add your first customer tax profile
+Set tax rules for specific customers or regions. Customer taxes can be added to, replaced, or calculated on top of other taxes.
+Learn more
+New customer tax profile

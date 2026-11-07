@@ -1,0 +1,82 @@
+https://ghiencafe.booqable.com/product_groups/d99f656f-2513-4ba9-9748-4fbb2b0f8667
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Inventory
+[TEST] Máy chiếu (2 serial)
+Duplicate product
+Tags
+Add tags
+Barcode
+Add barcode
+Collections
+Add to collections
+This product is not added to any collections yet.
+Notes
+Activity logs
+View activity logs
+Inventory
+Variations
+Pricing
+Settings
+Online store
+History
+Downtime
+Cross-sell
+General information
+Product settings
+Watch video
+Name
+Stock Keeping Unit (SKU)
+Description on documents
+You can list accessories here for example.
+Images
+
+Recommended: JPEG images, 1200x1200 pixels or larger.
+
+Learn more
+Upload
+or drop files
+Find
+images online
+Logistics information
+Used for delivery and shipping calculations, route planning, storage, and warehouse operations.
+
+This information will appear on the packing list.
+Weight
+g
+Availability settings
+Optimize item availability to meet your business needs. Allow shortage to accommodate high demand and prevent missed sales.
+Allow shortage
+Reserve orders for customers, even when items are temporarily unavailable.
+ Prevent lost sales by reserving items that can be quickly sourced or sub-rented.
+ Evaluate customer interest and demand before committing to purchasing (additional) inventory
+Buffer time
+Temporarily mark items as unavailable before or after orders to accommodate preparation, cleaning, maintenance, or unexpected events like late returns.
+Buffer before
+Hours
+Buffer after
+Hours
+Example
+This item can’t be rented out during buffer time
+Delete product
+CancelSave

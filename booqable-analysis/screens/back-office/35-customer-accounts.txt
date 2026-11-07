@@ -1,0 +1,41 @@
+https://ghiencafe.booqable.com/customers/1c0e12de-aaa7-4beb-870f-110469a4c938/accounts
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Customers
+TES[TEST] Khách hàng A
+Tags
+Add tags
+Barcode
+KHA
+Edit barcode
+Notes
+Activity logs
+View activity logs
+Information
+Orders
+Payment methods
+Accounts
+Enable customer accounts to streamline checkout.
+Letting customers create an account ensures saved details are automatically applied to their orders. This speeds up checkout for returning customers and ensures all orders stay consistently linked to the correct customer profiles in Booqable.
+Learn more
+Enable customer accounts

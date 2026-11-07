@@ -1,0 +1,127 @@
+https://ghiencafe.booqable.com/settings/checkout
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Online bookings
+Checkout
+Back office
+General
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Pickup and delivery
+Checkout
+Checkout form
+Payments in checkout
+Terms and conditions
+Back to website URL
+Additional scripts
+SEO
+Checkout form
+Configure custom fields
+
+Customize your checkout form. Add the custom fields you made or add descriptive text to the form.
+
+Learn more
+Label
+Type
+Name
+Name
+Email
+Email
+Addresses
+Pick up and delivery form
+Add item
+Save
+Payments in checkout
+
+Select how much of the order amount is required at checkout. You can choose to collect full or partial payments. Note: You need to connect a payment provider to collect payments online.
+
+Learn more
+Charge the full order amount
+Customers pay the full order amount at checkout.
+Charge a down payment
+Customers pay a part of the order amount at checkout.
+Only charge the security deposit
+Customers only pay the security deposit up front.
+Do not show any payment options
+No payment options are shown at checkout.
+Terms for amounts due later
+Let your customers know how you handle unpaid balances after checkout. This information is displayed when the “Pay Later” option is selected and in the order summary. Characters 0/500.
+Security deposit explanation
+Explain how you handle security deposits. It is shown with the totals on your checkout page. Characters 0/500.
+Example
+Subtotal
+₫100
+Delivery
+₫10
+Tax
+₫21
+Total
+₫131
+Refundable security deposit
+₫50
+Due later
+₫181
+Save
+Terms and conditions
+
+Enable terms and conditions in the checkout if you require customers to accept them before booking.
+Choose what the checkbox will be labeled in your online checkout, then write or paste your terms and conditions below.
+
+Customers have to agree to terms and conditions
+Customers must accept your terms before they can place an order.
+Checkbox label
+Terms and conditions
+
+Save
+Back to website URL
+
+Your customers will be taken to this link when clicking your website’s logo, and the 'back to website' button in your checkout.
+
+Back to website URL
+Save
+Additional scripts
+
+Add JavaScript to customize your pages. Your code is already added inside a <script> tag, so paste JavaScript only, not HTML snippets with <script> tags.
+
+Learn more
+Additional JavaScript
+1
+Save

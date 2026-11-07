@@ -1,0 +1,88 @@
+https://ghiencafe.booqable.com/settings/documents
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Settings
+Back office
+Documents
+Back office
+General
+Pricing
+Taxes
+Rental period
+Payment providers
+Custom fields
+Locations
+Emails
+Documents
+Document templates
+Document numbering
+Invoice due dates
+Translations
+Security
+Account and billingUPGRADE
+Online bookings
+Overview
+Booking page
+Website builder
+Website integration
+Cross-sell
+Preferences
+New
+Pickup and delivery
+Checkout
+SEO
+Document templates
+Customizing your documents
+Watch video
+
+Customize the content and layout of your documents.
+
+You can also use Custom CSS to adjust styling.
+
+Learn more
+Edit document templates
+Custom CSS
+Invoices
+Contracts
+Quotes
+Show date and time
+Include both date and time for the start and end of the order
+Show date only
+Show only the date for the start and end of the order
+Save
+Choose the default page size for printed documents.
+Page size
+A4
+Save
+Document numbering
+Control how document numbers are generated.
+Global level
+Numbers increase continuously across all documents (e.g. #1, #2, #3).
+Prefix level
+Start a new numbering sequence based on each unique prefix (e.g. order number, year, or month).
+Save
+Invoice due dates
+Automatically set due dates for invoices to track payments.
+Enable invoice due dates
+Add a due date to invoices when they are finalized.
+Save

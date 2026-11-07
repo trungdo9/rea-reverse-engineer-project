@@ -1,0 +1,114 @@
+https://ghiencafe.booqable.com/orders/shortage?page=1&sort=-starts_at&filters%5Bstatuses%5D%5B0%5D=draft&filters%5Bstatuses%5D%5B1%5D=reserved&filters%5Blocation_shortage%5D=true
+
+ Your trial ends in 14 days. Upgrade now and save 20% with a yearly plan.Choose a plan
+Continue setup
+3/11 completed
+New order
+Dashboard
+Calendar
+Orders
+Customers
+Inventory
+Coupons
+Documents
+Online store
+Apps
+Reports
+Ask Bo
+BETA
+Scan a barcode
+Help
+Settings
+TD
+Trung Do
+Orders
+Add order
+Activity
+Select...
+Location
+Pickup location
+All
+Return location
+All
+Payment status
+Payment due
+(5)
+Partially paid
+(0)
+Paid
+(0)
+Overpaid
+(0)
+Process deposit
+(0)
+Export
+All
+Upcoming
+Late
+With shortage
+Hide metrics
+Orders
+5
+Items ordered
+7
+Revenue
+₫1.400.000
+Due
+₫1.400.000
+Actions0 orders selectedSelect all 5 orders
+Showing 1 - 5 of 5
+#
+Customer
+Status
+From
+Until
+Price
+Payment status
+Tags
+New
+#23
+TES[TEST] Khách hàng A
+Reserved
+11-12-2026 09:00
+Main location
+13-12-2026 09:00
+Main location
+₫200.000
+Payment due
+#24
+TES[TEST] Khách hàng A
+Reserved
+11-12-2026 09:00
+Main location
+13-12-2026 09:00
+Main location
+₫200.000
+Payment due
+#55
+TES[TEST] Khách hàng A
+Draft
+11-12-2026 09:00
+Main location
+13-12-2026 09:00
+Main location
+₫400.000
+Payment due
+#56
+TES[TEST] Khách hàng A
+Draft
+11-12-2026 09:00
+Main location
+13-12-2026 09:00
+Main location
+₫200.000
+Payment due
+#22
+TES[TEST] Khách hàng A
+Reserved
+10-12-2026 09:00
+Main location
+12-12-2026 09:00
+Main location
+₫400.000
+Payment due
+Showing 1 - 5 of 5
